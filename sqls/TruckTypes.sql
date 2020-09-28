@@ -1,0 +1,10 @@
+INSERT INTO TruckTypes([TruckTypeID],[TruckType]) VALUES(1,' Type 2 '),(2,'Type 1 '),(3,' Type 3'),(4,' Type 3'),(5,' Type 3'),(6,'Type 1 '),(7,'Type 1 '),(8,'Type 1 '),(9,' Type 2 '),(10,' Type 2 ');
+INSERT INTO TruckTypes([TruckTypeID],[TruckType]) VALUES(11,' Type 3'),(12,' Type 3'),(13,' Type 2 '),(14,'Type 1 '),(15,' Type 3'),(16,' Type 3'),(17,' Type 3'),(18,' Type 3'),(19,' Type 2 '),(20,' Type 2 ');
+INSERT INTO TruckTypes([TruckTypeID],[TruckType]) VALUES(21,' Type 2 '),(22,' Type 3'),(23,' Type 2 '),(24,'Type 1 '),(25,' Type 3'),(26,'Type 1 '),(27,' Type 3'),(28,' Type 2 '),(29,' Type 3'),(30,'Type 1 ');
+INSERT INTO TruckTypes([TruckTypeID],[TruckType]) VALUES(31,' Type 2 '),(32,' Type 2 '),(33,' Type 2 '),(34,'Type 1 '),(35,' Type 2 '),(36,'Type 1 '),(37,' Type 3'),(38,' Type 2 '),(39,' Type 3'),(40,' Type 3');
+INSERT INTO TruckTypes([TruckTypeID],[TruckType]) VALUES(41,'Type 1 '),(42,' Type 2 '),(43,'Type 1 '),(44,'Type 1 '),(45,'Type 1 '),(46,'Type 1 '),(47,' Type 3'),(48,' Type 2 '),(49,' Type 2 '),(50,' Type 3');
+INSERT INTO TruckTypes([TruckTypeID],[TruckType]) VALUES(51,'Type 1 '),(52,' Type 3'),(53,' Type 2 '),(54,' Type 3'),(55,' Type 2 '),(56,'Type 1 '),(57,' Type 2 '),(58,'Type 1 '),(59,' Type 2 '),(60,'Type 1 ');
+INSERT INTO TruckTypes([TruckTypeID],[TruckType]) VALUES(61,' Type 2 '),(62,'Type 1 '),(63,' Type 3'),(64,' Type 2 '),(65,' Type 3'),(66,' Type 2 '),(67,' Type 2 '),(68,' Type 3'),(69,'Type 1 '),(70,'Type 1 ');
+INSERT INTO TruckTypes([TruckTypeID],[TruckType]) VALUES(71,' Type 2 '),(72,'Type 1 '),(73,' Type 3'),(74,'Type 1 '),(75,'Type 1 '),(76,'Type 1 '),(77,' Type 2 '),(78,' Type 3'),(79,'Type 1 '),(80,' Type 2 ');
+INSERT INTO TruckTypes([TruckTypeID],[TruckType]) VALUES(81,'Type 1 '),(82,' Type 3'),(83,' Type 3'),(84,'Type 1 '),(85,' Type 2 '),(86,' Type 3'),(87,'Type 1 '),(88,' Type 3'),(89,' Type 2 '),(90,'Type 1 ');
+INSERT INTO TruckTypes([TruckTypeID],[TruckType]) VALUES(91,'Type 1 '),(92,' Type 3'),(93,' Type 2 '),(94,' Type 2 '),(95,'Type 1 '),(96,' Type 3'),(97,'Type 1 '),(98,' Type 3'),(99,'Type 1 '),(100,' Type 3');

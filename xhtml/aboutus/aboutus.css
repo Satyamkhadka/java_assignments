@@ -1,0 +1,30 @@
+* {
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    justify-content:space-evenly;
+  }
+  
+.flex-container > div > h2 {
+    text-align: center;
+}
+.flex-container img {
+  border-radius: 50%;
+}
+  .flex-container > div > p {
+    text-align: center;
+    line-height: 50px;
+    padding: 10px;
+    /* font-size: 20px; */
+  }
+
+  .flex-wrapper {
+    margin-top: 8vh;
+    margin-bottom: 8vh;
+  }
+
+  .about-us{
+    margin:10%;
+  }

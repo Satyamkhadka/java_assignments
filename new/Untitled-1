@@ -1,0 +1,44 @@
+
+Error :1
+Line Number: 1
+
+Error description: Missing x on swing import
+
+Statement after correction: import javax.swing.*; 
+
+
+Error :2
+Line Number: 3
+
+Error description: Extending Panel instead of JPanel
+
+Statement after correction: public class ToppingPanel extends JPanel  
+
+
+
+Error :3
+Line Number: between 14 and 15
+
+Error description: Missing setVisible for JPanel
+
+Statement after correction: setVisible(true);
+
+
+Error :4
+Line Number: 15
+
+Error description: Missing (
+
+Statement after correction:  setLayout(new GridLayout(4, 1));
+
+
+
+Error :5
+Line Number: 38
+
+Error description: Missing } for method toppingCost
+
+Statement after correction:  }
+
+
+

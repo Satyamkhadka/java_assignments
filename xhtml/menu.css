@@ -1,0 +1,29 @@
+#menu-wrapper{
+    background-color:#00b7cc;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-right: 0px;
+    padding-left: 0px; 
+    margin: 0px;
+    
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#menu-ul {
+    list-style-type: none;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+#menu-ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+#menu-ul li :hover {
+    color: #ffd0cc;
+  }

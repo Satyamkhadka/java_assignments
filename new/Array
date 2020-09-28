@@ -1,0 +1,5 @@
+Array
+a. Array has 5 rows. In 2 dimensional array while declaring array first [value] is for rows and tax has [5][11] hence it has 5 rows. 
+b. Array has 11 columns. In 2 dimensional array while declaring array second [value] is for columns and tax has [5][11] hence it has 11 columns. 
+c. Array has 5*11 = 55 elements. Each rows has 11 elements and there are total 5 rows hence 5*11 = 55 elements.
+d. tax[4][10] = 3169.7 ;  Array indexing start from 0 so to access 11th column of 5th row we index with [4][10]

@@ -1,0 +1,40 @@
+
+ /*
+ <title> Test Applet Page </title>
+    <body>
+      <applet code=HelloWorld.class width=200 height=200>
+     </applet>1
+    </body>
+
+*/
+
+    import java.awt.Graphics;1
+    import java.applet.Applet;
+  
+    public class HelloWorld extends Applet
+  {	
+
+     public void init() 
+    { 
+        // set size 
+        setSize(400, 400); 
+  
+        repaint(); 
+    } 
+
+     public void paint(Graphics g)
+     {
+         g.drawRect(0, 0, 400, 400); 
+       g.drawString("Hello World!",20,20);
+         repaint();
+     }
+  }
+
+
+
+justification:
+init method : overrides Applet's init method. Used to initialize applet with properties.
+repaint:  method from Applet. repaints the UI. 
+paint method: paint method takes Graphics object g and overrides paint method of Applet class
+drawString method: drawString method draws string in the applet and is method of Graphics g object.
+drawRect : method of of Applet. draws rectangle.  first 2 are coordinate of topleft point and last 2 are coordinate of bottom right point.
